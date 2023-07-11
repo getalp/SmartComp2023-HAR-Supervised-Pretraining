@@ -8,7 +8,7 @@ Tensorflow implementation of **Supervied Pre-training with LODO**:
 
 
 <p align="center">
-  <img width="55%" alt="HART Architecture" src="Figs/LODO_Fig.png">
+  <img width="80%" alt="Leave-One-Dataset-Out" src="Figs/LODO_Fig.png">
 </p>
 
 If our project is helpful for your research, please consider citing : 
