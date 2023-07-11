@@ -31,16 +31,12 @@ If our project is helpful for your research, please consider citing :
   * [2.1 Dependencies](#21-dependencies)
   * [2.2 Data](#22-data)
 * [3. Quick Start](#3-quick-start)
-  * [3.1 Importing HART or MobileHART to your project](#31-Importing-HART-or-MobileHART-to-your-project)
-  * [3.2 Running HART in our provided pipeline](#32-Running-HART-in-our-provided-pipeline)
-  * [3.3 Running MobileHART in our provided pipeline](#33-Running-MobileHART-in-our-provided-pipeline)
-* [4. Position-Wise and Device-Wise Evaluation](#4-evaluation)
-  * [4.1 Position-Wise evaluation with the RealWorld Dataset](#41-Position-Wise-evaluation-with-the-RealWorld-Dataset)
-  * [4.2 Device-Wise evaluation with the HHAR Dataset](#42-Device-Wise-evaluation-with-the-HHAR-Dataset)
-* [5. Results](#5-Results)
-* [6. Acknowledgement](#5-acknowledgement)
+  * [3.1 Using the LODO partition](#31-Using-the-LODO-partition)
+  * [3.2 Running Our Supervised Pretraining Pipeline](#32-Running-Our-Supervised-Pretraining-Pipeline)
+  * [3.3 Loading and Using our Pre-Trained Models](#33-Loading-and-Using-our-Pre-Trained-Models)
+* [4. Acknowledgement](#4-acknowledgement)
 
-
+### 3.3 Loading and Using our Pre-Trained Models
 ## 1. Updates
 
 
