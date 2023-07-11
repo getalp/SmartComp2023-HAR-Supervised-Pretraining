@@ -1,11 +1,11 @@
 # Leave-One-Dataset-Out (LODO)
 Tensorflow implementation of **Supervied Pre-training with LODO**:
 
-This work has been published in SmartComp2023.
+This work has been published in **SmartComp2023**.
 
 **Combining Public Human Activity Recognition Datasets to Mitigate Labeled Data Scarcity** [[Paper](https://arxiv.org/abs/2306.13735)]
 
-*[Riccardo Presotto](https://sites.google.com/view/riccardopresotto/home), [Sannara Ek](https://scholar.google.com/citations?user=P1F8sQgAAAAJ&hl=en&oi=ao), [Gabriele Civitarese](https://civitarese.di.unimi.it/),[François Portet](https://lig-membres.imag.fr/portet/home.php), [Philippe Lalanda](https://lig-membres.imag.fr/lalanda/), [Claudio Bettini](https://sites.google.com/view/claudio-bettini)*
+*[Riccardo Presotto](https://sites.google.com/view/riccardopresotto/home), [Sannara Ek](https://scholar.google.com/citations?user=P1F8sQgAAAAJ&hl=en&oi=ao), [Gabriele Civitarese](https://civitarese.di.unimi.it/), [François Portet](https://lig-membres.imag.fr/portet/home.php), [Philippe Lalanda](https://lig-membres.imag.fr/lalanda/), [Claudio Bettini](https://sites.google.com/view/claudio-bettini)*
 
 
 <p align="center">
