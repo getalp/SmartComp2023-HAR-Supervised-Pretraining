@@ -135,6 +135,13 @@ python3.7 Supervised_Pretraining.py --architecture hart --testingDataset MotionS
 To select different architectures for the pre-training, change the value of the 'architecture' flag to one of the following:
 
 ```
+mobilehart_xs,hart,ispl,deepConvlstm
+```
+
+
+To select different architectures for the pre-training, change the value of the 'testingDataset' flag to one of the following:
+
+```
 HHAR,MobiAct,MotionSense,RealWorld_Waist,UCI,PAMAP
 ```
 
