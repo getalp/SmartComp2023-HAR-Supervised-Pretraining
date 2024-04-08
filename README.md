@@ -5,7 +5,7 @@ This work has been published in **SmartComp2023**.
 
 **Combining Public Human Activity Recognition Datasets to Mitigate Labeled Data Scarcity** [[Paper](https://arxiv.org/abs/2306.13735)]
 
-*[Riccardo Presotto](https://sites.google.com/view/riccardopresotto/home), [Sannara Ek](https://scholar.google.com/citations?user=P1F8sQgAAAAJ&hl=en&oi=ao), [Gabriele Civitarese](https://civitarese.di.unimi.it/), [François Portet](https://lig-membres.imag.fr/portet/home.php), [Philippe Lalanda](https://lig-membres.imag.fr/lalanda/), [Claudio Bettini](https://sites.google.com/view/claudio-bettini)*
+*[Riccardo Presotto](https://sites.google.com/view/riccardopresotto/home), [Sannara Ek](https://sannaraek.github.io/), [Gabriele Civitarese](https://civitarese.di.unimi.it/), [François Portet](https://lig-membres.imag.fr/portet/home.php), [Philippe Lalanda](https://lig-membres.imag.fr/lalanda/), [Claudio Bettini](https://sites.google.com/view/claudio-bettini)*
 
 
 <p align="center">
@@ -139,7 +139,7 @@ mobilehart_xs,hart,ispl,deepConvlstm
 ```
 
 
-To select different architectures for the pre-training, change the value of the 'testingDataset' flag to one of the following:
+To select the left-out dataset, change the value of the 'testingDataset' flag to one of the following:
 
 ```
 HHAR,MobiAct,MotionSense,RealWorld_Waist,UCI,PAMAP
