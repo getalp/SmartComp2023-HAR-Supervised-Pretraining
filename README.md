@@ -14,13 +14,13 @@ This work has been published in **SmartComp2023**.
 
 If our project is helpful for your research, please consider citing : 
 ``` 
-@misc{presotto2023combining,
-      title={Combining Public Human Activity Recognition Datasets to Mitigate Labeled Data Scarcity}, 
-      author={Riccardo Presotto and Sannara Ek and Gabriele Civitarese and François Portet and Philippe Lalanda and Claudio Bettini},
-      year={2023},
-      eprint={2306.13735},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{presotto2023combining,
+  title={Combining Public Human Activity Recognition Datasets to Mitigate Labeled Data Scarcity},
+  author={Presotto, Riccardo and Ek, Sannara and Civitarese, Gabriele and Portet, Fran{\c{c}}ois and Lalanda, Philippe and Bettini, Claudio},
+  booktitle={2023 IEEE International Conference on Smart Computing (SMARTCOMP)},
+  pages={33--40},
+  year={2023},
+  organization={IEEE}
 }
 ```
 
@@ -147,7 +147,7 @@ HHAR,MobiAct,MotionSense,RealWorld_Waist,UCI,PAMAP
 
 ### 3.3 Loading and Using our Pre-Trained Models
 
-Due to file storage limit constraints, the pretrain-ed models are available at the follow link:
+Due to file storage limit constraints, the pre-trained models are available at the follow link:
 
 ```
 
